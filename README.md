@@ -1,1 +1,1 @@
-# Covid-19-EDA---Project
+# Covid-19-Exploratory Data Analysis using SQL---Project
